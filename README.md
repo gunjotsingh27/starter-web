@@ -5,7 +5,7 @@ Sample project
 
 ## Purpose
 
-Sample website with plenty of files for demos
+Sample website with plenty of files for demos. not sure why are we doing this but dummy updated
 
 ## Introduction
 
@@ -15,3 +15,4 @@ Sample introduction of the project, showing different parts of GIT repo & variou
 Section for Deployment
 
 ## How to Contribute
+Adding the contribution matireal over here
