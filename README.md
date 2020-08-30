@@ -15,4 +15,8 @@ Sample introduction of the project, showing different parts of GIT repo & variou
 Section for Deployment
 
 ## How to Contribute
-Adding the contribution matireal over here
+Adding the contribution material over here
+
+### Copyright
+
+2020.Git.Training
