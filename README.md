@@ -9,7 +9,7 @@ Sample website with plenty of files for demos
 
 ## Introduction
 
-Sample introduction of the project
+Sample introduction of the project, showing different parts of GIT repo & various commands using a web project
 
 ## Deployment
 Section for Deployment
