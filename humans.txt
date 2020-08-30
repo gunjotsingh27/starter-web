@@ -3,7 +3,7 @@
 
 # TEAM
 
-    <name> -- <role> -- <twitter>
+    Gunjot SIngh	gunjotsingh27@gmail.com tweet@handle
 
 # THANKS
 
